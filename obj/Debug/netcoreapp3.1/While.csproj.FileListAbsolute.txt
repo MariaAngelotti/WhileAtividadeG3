@@ -1,0 +1,13 @@
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\bin\Debug\netcoreapp3.1\While.exe
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\bin\Debug\netcoreapp3.1\While.deps.json
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\bin\Debug\netcoreapp3.1\While.dll
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\bin\Debug\netcoreapp3.1\While.pdb
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\obj\Debug\netcoreapp3.1\While.csprojAssemblyReference.cache
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\obj\Debug\netcoreapp3.1\While.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\obj\Debug\netcoreapp3.1\While.dll
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\obj\Debug\netcoreapp3.1\While.pdb
+C:\projetos\ams\1ano\2semestre\EstruturaRepetição\WhileComand\AtvWhile\While\obj\Debug\netcoreapp3.1\While.genruntimeconfig.cache
